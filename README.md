@@ -104,8 +104,9 @@ Awarded Participation Certificate for contributions to conference success
 
 ## Education
 
-**B.Tech in Artificial Intelligence & Machine Learning**
-GANNON UNIVERSITY 2025
+**B.Tech in Artificial Intelligence & Machine Learning | Amrita Vishwavidhyapeetham 2019-2023**
+
+**Masters in Cybersecurity at GANNON UNIVERSITY 2025**
 
 ---
 
