@@ -66,7 +66,8 @@ Currently seeking opportunities to apply AI and machine learning to cybersecurit
 
 ---
 
-##💼 Professional Experience
+💼 Professional Experience
+
 Cybersecurity Lab Assistant
 Gannon University | Erie, PA | January 2025 – December 2025
 
