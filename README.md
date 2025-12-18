@@ -66,6 +66,20 @@ Currently seeking opportunities to apply AI and machine learning to cybersecurit
 
 ---
 
+##💼 Professional Experience
+Cybersecurity Lab Assistant
+Gannon University | Erie, PA | January 2025 – December 2025
+
+Manage Kali Linux VMs for 40+ students; automate setup with Bash scripts
+Teach hands-on labs covering Wireshark, subnetting, and OSI model concepts
+Provide technical support and mentorship to cybersecurity students
+Conference Volunteer
+BSides Rock Conference | Rochester, PA | June 2024
+
+Supported 300+ attendees with registration, tech setup, and networking
+Participated in cybersecurity track sessions and workshops
+Awarded Participation Certificate for contributions to conference success
+
 ## Projects
 
 **ERC-20 Staking Contract Audit** — [GitHub](https://github.com/Harshanandhan/eth-staking-audit)
