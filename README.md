@@ -1,4 +1,4 @@
-# Harsha Nandhan Reddy
+# HARSHANANDHAN REDDY GAJULAPALLI
 
 **Cybersecurity Analyst | Pennsylvania, USA | Open to work**
 
