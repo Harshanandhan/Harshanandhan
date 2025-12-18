@@ -2,11 +2,16 @@
 
 **Cybersecurity Analyst | Pennsylvania, USA | Open to work**
 
-📧 harshanandhanreddy820@gmail.com
+## Contact
 
-📧 phone -8145041946
+- 📧 harshanandhanreddy820@gmail.com
+- 💼 [LinkedIn]
+- 🐙 [GitHub](https://github.com/Harshanandhan)
+- 📧 phone -8145041946
+- https://x.com/Nandhanreddyy
 
-📧 https://x.com/Nandhanreddyy
+
+
 --- 
 
 ## About Me
@@ -103,12 +108,6 @@ GANNON UNIVERSITY 2025
 
 ---
 
-## Contact
-
-- 📧 harshanandhanreddy820@gmail.com
-- 💼 [LinkedIn]
-- 🐙 [GitHub](https://github.com/Harshanandhan)
-- https://x.com/Nandhanreddyy
 
 ---
 
