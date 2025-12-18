@@ -108,6 +108,7 @@ GANNON UNIVERSITY 2025
 - 📧 harshanandhanreddy820@gmail.com
 - 💼 [LinkedIn]
 - 🐙 [GitHub](https://github.com/Harshanandhan)
+- https://x.com/Nandhanreddyy
 
 ---
 
