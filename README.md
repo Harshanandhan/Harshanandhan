@@ -65,6 +65,16 @@ Currently seeking opportunities to apply AI and machine learning to cybersecurit
 **Areas:** Vulnerability Assessment, Network Security, Incident Response, Threat Hunting, Log Analysis, Web Application Security, Smart Contract Security
 
 ---
+# Blockchain & Cryptocurrency Experience
+Since 2021, I've been actively involved in blockchain and cryptocurrency ecosystems, managing portfolios exceeding $80K and participating in early-stage testnet deployments. Key highlights:
+
+Testnet Participation: Extensively tested on Sepolia and Goerli networks with ETH, including smart contract deployments and interactions.
+Base Testnet Camp: Completed hands-on challenges and contributed to Base ecosystem testing.
+Early-Stage Projects: Engaged in alpha/beta testing for protocols like zkSync, Starknet Stargate, and others during their initial phases—focusing on security, functionality, and performance.
+Portfolio Management: Managed diverse crypto assets, implementing risk assessment strategies and monitoring market dynamics.
+
+This experience complements my smart contract auditing work, providing real-world insights into DeFi vulnerabilities and blockchain security best practices.
+Check out my Base-camp-testnet repo for related code and documentation.
 
 # 💼 Professional Experience
 
