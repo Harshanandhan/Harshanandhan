@@ -1,43 +1,111 @@
-Harsha Nandhan Reddy
+# Harsha Nandhan Reddy
 
-Connect with me:
+**Cybersecurity Analyst | Pennsylvania, USA | Open to Remote**
 
-PROFILE SUMMARY
-Cybersecurity Analyst with hands-on experience in smart contract security auditing, vulnerability research, and penetration testing. Skilled in identifying and exploiting vulnerabilities in blockchain applications, including reentrancy attacks, flash loan exploits, and access control flaws. Background in AI/ML with a focus on applying machine learning techniques to security challenges. Passionate about offensive security, CTF competitions, and building secure systems. Seeking opportunities in Cybersecurity Analysis, Blockchain Security, and AI-driven security solutions.
+📧 harshanandhanreddy820@gmail.com
 
-TECHNICAL SKILLS
+---
 
+## About Me
 
+Cybersecurity Analyst with hands-on experience in vulnerability assessment, penetration testing, network security, and smart contract auditing. Passionate about identifying threats, securing systems, and building defensive solutions.
 
-SECURITY PROJECTS
-ERC-20 Staking Contract Security Audit
-eth-staking-audit
+---
 
-Conducted comprehensive security audit of ERC-20 staking smart contract using Slither static analysis and manual code review.
-Identified critical reentrancy vulnerability in withdraw() function that could allow complete drainage of contract funds.
-Discovered high-severity access control flaws enabling unauthorized admin actions; implemented fixes using OpenZeppelin's Ownable.
-Deployed secure version to Sepolia testnet with all vulnerabilities patched and documented in detailed audit report.
+## Security Tools
 
-DVDE Flash Loan Exploit
-dvde-flash-loan-exploit
+**Network & Traffic Analysis**
+- Wireshark — Packet capture, protocol analysis, traffic inspection
+- Nmap — Port scanning, service enumeration, OS fingerprinting
+- Tcpdump — Command-line packet analysis
 
-Developed proof-of-concept flash loan exploit demonstrating vault drainage in under 60 seconds using Foundry and Rust.
-Exploited price oracle manipulation vulnerability allowing extraction of funds without upfront capital in single atomic transaction.
-Created 5-page mitigation report detailing TWAP oracle implementation, flash loan guards, and circuit breaker recommendations.
-Built comprehensive test suite validating exploit mechanics and demonstrating effectiveness of proposed security measures.
+**Vulnerability Assessment**
+- Nessus — Vulnerability scanning, compliance auditing
+- OpenVAS — Network vulnerability assessment
+- Nikto — Web server scanning
 
+**Penetration Testing**
+- Burp Suite — Web app testing, proxy interception, SQL injection, XSS
+- Metasploit — Exploitation framework, payload delivery
+- Hydra — Password cracking, brute force attacks
 
-BLOCKCHAIN PROJECTS
-Base Camp Testnet
-Base-camp-testnet
+**Blockchain Security**
+- Slither — Smart contract static analysis
+- Foundry — Testing, fuzzing, exploit development
+- Mythril — EVM bytecode analysis
 
-Developed and deployed smart contracts on Base testnet exploring Layer 2 scaling solutions and security considerations.
-Implemented secure contract patterns following best practices for access control, input validation, and gas optimization.
+**SIEM & Monitoring**
+- Splunk — Log analysis, threat detection
+- ELK Stack — Centralized logging, visualization
 
+**Platforms**
+- Kali Linux, Ubuntu, Windows Server
+- AWS, Docker
 
-AI/ML PROJECTS
-Machine Learning Security Applications
+---
 
-Built AI/ML models during Bachelor's program focused on pattern recognition and anomaly detection.
-Explored applications of machine learning in cybersecurity including threat detection and malware classification.
-Developed proficiency in Python, TensorFlow, and PyTorch for security-focused ML implementations.
+## Technical Skills
+
+**Languages:** Python, Bash, Solidity, JavaScript, SQL
+
+**Frameworks:** OWASP Top 10, NIST, MITRE ATT&CK
+
+**Areas:** Vulnerability Assessment, Penetration Testing, Network Security, Incident Response, Threat Hunting, Log Analysis, Web Application Security, Smart Contract Security
+
+---
+
+## Projects
+
+**ERC-20 Staking Contract Audit** — [GitHub](https://github.com/Harshanandhan/eth-staking-audit)
+- Audited smart contract using Slither and manual review
+- Found critical reentrancy vulnerability in withdraw function
+- Identified access control flaws allowing unauthorized actions
+- Documented findings and deployed fixed version to testnet
+
+**Flash Loan Exploit PoC** — [GitHub](https://github.com/Harshanandhan/dvde-flash-loan-exploit)
+- Built proof-of-concept exploit draining vault in <60 seconds
+- Exploited price oracle manipulation vulnerability
+- Created mitigation report with TWAP and circuit breaker fixes
+
+**Network Security Labs**
+- Captured and analyzed malicious traffic with Wireshark
+- Performed network reconnaissance using Nmap
+- Conducted vulnerability scans with Nessus
+- Tested web apps for OWASP Top 10 vulnerabilities using Burp Suite
+
+---
+
+## Education
+
+**B.Tech in Artificial Intelligence & Machine Learning**
+[Your University] | [Year]
+
+---
+
+## Certifications
+
+- [Add your certifications here]
+- CompTIA Security+ (if applicable)
+- CEH (if applicable)
+- TryHackMe / HackTheBox badges
+
+---
+
+## Currently Learning
+
+- Advanced penetration testing techniques
+- Cloud security (AWS)
+- Malware analysis & reverse engineering
+- SIEM implementation and threat hunting
+
+---
+
+## Contact
+
+- 📧 harshanandhanreddy820@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-URL)
+- 🐙 [GitHub](https://github.com/Harshanandhan)
+
+---
+
+*Actively seeking Cybersecurity Analyst / SOC Analyst / Penetration Tester roles*
