@@ -407,7 +407,7 @@ Key Coursework:
 
 ## 🎯 Career Goals
 
-### Immediate (2025):
+### Immediate :
 - 🔍 Secure **Cybersecurity Analyst** or **SOC Analyst** position
 - 📜 Complete **CompTIA Security+** and **AWS Security** certifications
 - 🚀 Build and deploy advanced security automation tools
@@ -447,7 +447,6 @@ I'm actively seeking opportunities in:
 ### 🎯 Target Roles:
 - 🔐 **Cybersecurity Analyst**
 - 🚨 **SOC Analyst (Security Operations Center)**
-- 🎯 **Penetration Tester**
 - 🛡️ **Security Engineer**
 - 🔍 **Threat Hunter**
 - ⛓️ **Blockchain Security Analyst**
@@ -478,13 +477,13 @@ I'm actively seeking opportunities in:
 
 📱 **Phone:** [+1 (814) 504-1946](tel:8145041946)
 
-💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)
+💼 **LinkedIn:** [Harshanandhan](https://www.linkedin.com/in/harshanandhan-reddy-gajulapalli-91a951395/)
 
 🐦 **Twitter:** [@Nandhanreddyy](https://x.com/Nandhanreddyy)
 
 🐙 **GitHub:** [@Harshanandhan](https://github.com/Harshanandhan)
 
-📍 **Location:** Pennsylvania, USA
+📍 **Location:**  USA
 
 </div>
 
