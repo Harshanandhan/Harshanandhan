@@ -5,7 +5,7 @@
 **Cybersecurity Analyst | Pennsylvania, USA | Open to Work**
 
 [![Email](https://img.shields.io/badge/Email-harshanandhanreddy820%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:harshanandhanreddy820@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/harshanandhan-reddy-gajulapalli-91a951395/)
+[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/harshanandhan-reddy-gajulapalli-91a951395/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Nandhanreddyy-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/Nandhanreddyy)
 [![GitHub](https://img.shields.io/badge/GitHub-Harshanandhan-181717?style=for-the-badge&logo=github)](https://github.com/Harshanandhan)
 [![Phone](https://img.shields.io/badge/Phone-814--504--1946-green?style=for-the-badge&logo=phone)](tel:8145041946)
