@@ -294,25 +294,6 @@ Key Coursework:
 
 ---
 
-## 🎯 Career Goals
-
-### 🔜 Immediate
-- 🔍 Secure **Cybersecurity Analyst / SOC Analyst** position
-- 📜 Complete **CompTIA Security+** and **AWS Security** certifications
-- 🚀 Build advanced security automation tools
-
-### 📅 Mid-Term (2026-2027)
-- 🎓 Complete Master's in Cybersecurity
-- 🏆 Achieve **OSCP** certification
-- 💼 Progress to **Senior Security Analyst / Penetration Tester**
-
-### 🌟 Long-Term
-- 🔐 Lead security operations team
-- 🎯 Specialize in **AI-powered security solutions**
-- ⛓️ Become recognized expert in **blockchain security**
-
----
-
 ## 🤝 Let's Connect!
 
 ### 🎯 Target Roles:
