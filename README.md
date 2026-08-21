@@ -24,7 +24,7 @@ Lab assistant at Gannon (2025): Kali VMs and labs for 40+ students. Independent 
 |---|---|
 | [Repostly](https://www.repostly.org) ([code](https://github.com/Harshanandhan/yt-repurposer-web)) | Live product: YouTube URL → LinkedIn posts. Next.js, Supabase, Claude, Stripe. |
 | [Documind](https://github.com/Harshanandhan/Documind-Free-version) | FastAPI app that extracts structured data from PDFs, CSV, and Excel via Groq. |
-| [SIEM dashboard](https://github.com/Harshanandhan/Siem-dashboard) | Docker ELK lab: Logstash + Elasticsearch + Kibana, brute-force and SQLi detection rules, MITRE mappings. |
+| [SIEM Detection Lab](https://github.com/Harshanandhan/siem-detection-lab) | Python rules on generated logs: SSH brute force T1110.001, SQLi T1190, port scan T1046. Run: 3 alerts. |
 | [Solidity Vulnerability Detector](https://github.com/Harshanandhan/solidity-vulnerability-detector) | Python CLI: per-function checks for reentrancy, access control, unchecked calls, timestamp, and tx.origin. Sample run: 7 findings vs 0. |
 | [Host Security Scanner](https://github.com/Harshanandhan/host-security-scanner) | Lab TCP/web scanner. Live run on scanme.nmap.org: 4 open ports, 5 missing headers. No CVE database. |
 | [Staking contract (Hardhat)](https://github.com/Harshanandhan/eth-staking-audit) | Hardhat + OpenZeppelin project and Sepolia deploy script for an ERC-20 staking token. |
