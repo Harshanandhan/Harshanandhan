@@ -27,7 +27,7 @@ Lab assistant at Gannon (2025): Kali VMs and labs for 40+ students. Independent 
 | [SIEM Detection Lab](https://github.com/Harshanandhan/siem-detection-lab) | Python rules on generated logs: SSH brute force T1110.001, SQLi T1190, port scan T1046. Run: 3 alerts. |
 | [Solidity Vulnerability Detector](https://github.com/Harshanandhan/solidity-vulnerability-detector) | Python CLI: per-function checks for reentrancy, access control, unchecked calls, timestamp, and tx.origin. Sample run: 7 findings vs 0. |
 | [Host Security Scanner](https://github.com/Harshanandhan/host-security-scanner) | Lab TCP/web scanner. Live run on scanme.nmap.org: 4 open ports, 5 missing headers. No CVE database. |
-| [Staking contract (Hardhat)](https://github.com/Harshanandhan/eth-staking-audit) | Hardhat + OpenZeppelin project and Sepolia deploy script for an ERC-20 staking token. |
+| [ERC-20 Staking Vault](https://github.com/Harshanandhan/erc20-staking-vault) | Stake/withdraw STK with ReentrancyGuard. 6 Hardhat tests passing. Lab only, not a testnet deploy. |
 
 ---
 
